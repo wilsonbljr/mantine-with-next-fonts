@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@mantine/core": "^5.7.2",
+    "@mantine/hooks": "^5.7.2",
     "@next/font": "^13.0.3",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
